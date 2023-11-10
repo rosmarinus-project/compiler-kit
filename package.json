@@ -1,6 +1,6 @@
 {
   "name": "@rosmarinus/compiler-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "compiler kit for rosmarinus projects",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
