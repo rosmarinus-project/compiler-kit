@@ -39,6 +39,8 @@
     "dom-serializer": "^2.0.0",
     "domhandler": "^5.0.3",
     "htmlparser2": "^9.0.0",
+    "json5": "^2.2.3",
+    "lodash-es": "^4.17.21",
     "tslib": "^2.6.2"
   },
   "devDependencies": {
@@ -55,6 +57,7 @@
     "@types/babel__traverse": "^7.20.4",
     "@types/fs-extra": "^9.0.12",
     "@types/jest": "^27.4.0",
+    "@types/lodash-es": "^4.17.11",
     "@types/node": "^18.14.0",
     "husky": "^8.0.3",
     "jest": "^27.4.7",
